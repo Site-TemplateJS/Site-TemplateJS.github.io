@@ -1,6 +1,7 @@
 # Site-TemplateJS.github.io
-Introducing Site-Template JS, an easy website building framework that lays out the design of the site, all without any CSS or styling. 100% responsive, and dynamic. Made for quickly laying out the site so that users can quickly customize the site to their liking.
+Introducing Site-Template JS, an easy website building JavaScript framework that lays out the design of the site, all without any CSS or styling. 100% responsive, and dynamic. Made for quickly laying out the site so that users can quickly customize the site to their liking.
 All you have to do is add the CDN: <script src="https://site-templatejs.github.io/site-templatejs.min.js"></script>, and then add the correct classes for each element.
+View an example of its implementation at: https://site-templatejs.github.io
 # Navbar Class: 
 class="nav"
 # Navbar Link Class:
