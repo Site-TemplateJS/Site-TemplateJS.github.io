@@ -13,3 +13,7 @@ class="content"
 class="sidebar-left"
 # Right Sidebar Class:
 class="sidebar-right"
+# Footer Class:
+class="footer"
+# Best Practices:
+For the best, responsive layout, enclose the content area and sidebars (if you add them) with div with class="container".
